@@ -1,0 +1,14 @@
+/Users/decaff/Downloads/olympics/anchor-marketplace-main/target/sbf-solana-solana/release/deps/libzerocopy-afd5b8304c04ce53.rmeta: /Users/decaff/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/lib.rs /Users/decaff/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/macros.rs /Users/decaff/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/macro_util.rs /Users/decaff/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/util.rs /Users/decaff/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/third_party/rust/layout.rs /Users/decaff/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/wrappers.rs
+
+/Users/decaff/Downloads/olympics/anchor-marketplace-main/target/sbf-solana-solana/release/deps/libzerocopy-afd5b8304c04ce53.rlib: /Users/decaff/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/lib.rs /Users/decaff/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/macros.rs /Users/decaff/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/macro_util.rs /Users/decaff/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/util.rs /Users/decaff/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/third_party/rust/layout.rs /Users/decaff/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/wrappers.rs
+
+/Users/decaff/Downloads/olympics/anchor-marketplace-main/target/sbf-solana-solana/release/deps/zerocopy-afd5b8304c04ce53.d: /Users/decaff/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/lib.rs /Users/decaff/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/macros.rs /Users/decaff/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/macro_util.rs /Users/decaff/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/util.rs /Users/decaff/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/third_party/rust/layout.rs /Users/decaff/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/wrappers.rs
+
+/Users/decaff/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/lib.rs:
+/Users/decaff/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/macros.rs:
+/Users/decaff/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/macro_util.rs:
+/Users/decaff/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/util.rs:
+/Users/decaff/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/third_party/rust/layout.rs:
+/Users/decaff/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/wrappers.rs:
+
+# env-dep:CARGO_PKG_VERSION=0.7.26

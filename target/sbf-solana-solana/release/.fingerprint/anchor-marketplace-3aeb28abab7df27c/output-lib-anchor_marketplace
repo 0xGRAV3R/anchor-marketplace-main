@@ -1,0 +1,1 @@
+Error: Function _ZN141_$LT$anchor_marketplace..contexts..listing..List$u20$as$u20$anchor_lang..Accounts$LT$anchor_marketplace..contexts..listing..ListBumps$GT$$GT$12try_accounts17h81e794529ea008a4E Stack offset of 4128 exceeded max offset of 4096 by 32 bytes, please minimize large stack variables
